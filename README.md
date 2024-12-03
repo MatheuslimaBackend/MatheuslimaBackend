@@ -14,9 +14,9 @@ Sou um programador focado em tecnologia e atualmente trabalhando em projetos que
 
 ## 🔬 Estatísticas do GitHub
 
-![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheuslimaBackend&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=www.linkedin.com/in/matheus-lima-31710b2bb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

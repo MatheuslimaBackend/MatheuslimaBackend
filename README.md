@@ -24,7 +24,7 @@ Sou um programador focado em tecnologia e atualmente trabalhando em projetos que
 
 ## 🌍 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/matheus-lima-31710b2bb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-31710b2bb)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheuslimaBackend)
 
 ---

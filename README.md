@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Lima! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e atualmente focado em projetos de software e sistemas embarcados. Sempre em busca de novos desafios, meu objetivo é crescer na área de tecnologia enquanto contribuo para a comunidade.
+Sou um desenvolvedor apaixonado por tecnologia e atualmente focado em projetos de software. Sempre em busca de novos desafios, meu objetivo é crescer na área de tecnologia enquanto contribuo para a comunidade.
 
 ---
 

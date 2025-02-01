@@ -1,6 +1,7 @@
 # Olá, eu sou Matheus Lima! 👋
 
-Sou um programador focado em tecnologia e atualmente trabalhando em projetos que envolvem sistemas embarcados e desenvolvimento de software. Estou sempre em busca de aprender mais e contribuir para a comunidade Open Source e desenvolvedores.
+Sou um desenvolvedor apaixonado por tecnologia e atualmente focado em projetos de software e sistemas embarcados. Sempre em busca de novos desafios, meu objetivo é crescer na área de tecnologia enquanto contribuo para a comunidade.
+
 ---
 
 ## 🔧 Tecnologias e Ferramentas
@@ -16,19 +17,17 @@ Sou um programador focado em tecnologia e atualmente trabalhando em projetos que
 
 ![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheuslimaBackend&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=www.linkedin.com/in/matheus-lima-31710b2bb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuslimaBackend&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatheuslimaBackend&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌍 Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-31710b2bb)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheuslimaBackend)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
 ---
 
 🌟 "A melhor maneira de prever o futuro é criá-lo."
-
----

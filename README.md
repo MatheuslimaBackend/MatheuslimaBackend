@@ -28,8 +28,7 @@ Student of Systems Analysis and Development, building backend projects with REST
 
 ## 🌍 Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-lima-31710b2bb  
-- 💻 GitHub: https://github.com/MatheuslimaBackend
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-lima-31710b2bb
 
 ---
 > Learning by building. Improving one commit at a time.
